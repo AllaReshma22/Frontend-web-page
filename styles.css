@@ -1,0 +1,43 @@
+.page{
+	width:100%;
+    height:800px;
+    border-style:solid}
+.headerpart{
+	width:100%;
+	height:150px;
+    border-style:solid;
+	background-color:rgb(51,153,204);font-size:65px;color:white;font-family:Century Gothic;font-weight:5;padding-left:20px;
+	}
+.linkspart{
+   width:auto;
+   height:25px;  
+	background-color:rgb(51,51,51);
+    background-color:black;
+	border: solid rgb(191, 191, 191);	
+	color:white;
+	font-size:16px;
+	margin-top:-4px;
+	font-family:Helvetica;
+	border-spacing:10px;
+	font-weight:20;
+	text-align:center;
+}  
+.linkspart a{
+color:white;
+text-decoration:none;width:7%;}	
+.linkspart a:hover{
+	background-color:white;
+	color:rgb(51,51,51);
+}
+.bodypart{
+	border: solid rgb(191, 191, 191);	
+	margin-left:40px;
+	border-spacing:0px;
+	padding:10px;
+   font-family:arial;
+}
+
+.bodypart.contentpart{
+font-family:arial;font-size:100%;}
+.paragraphpart{
+font-family:arial;font-size:15px;margin-left:40px;}
